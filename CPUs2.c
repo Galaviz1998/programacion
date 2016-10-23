@@ -4,7 +4,7 @@ int main()
 {
     float promedio;
     int temperatura, sumaTemp=0, i=1, tiempo;
-    system("color 0a");
+    system("color 4f");
     printf("\n\t\t PROGRAMA EMPRESA DE CPUs\n");
     printf("\n INGRESE HORAS DEL USO DEL CPU:\t");
     scanf("%i",&tiempo);
